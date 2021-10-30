@@ -1,0 +1,30 @@
+<style>
+div {
+    color:black; background-color: cornflowerblue;
+}
+h1 {
+    color:black;
+}
+.green {
+    color:darkgoldenrod
+}
+#red {
+    color: blue
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: 8px solid black;
+    background-color:burlywood
+    
+}
+
+#spanId {
+    font-size: 25px;
+    margin: 50px;
+}
+</style>
